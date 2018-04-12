@@ -1,16 +1,16 @@
-Week,Repo Url,Name,Type
-3,https://git.generalassemb.ly/ga-wdi-boston/jquery-dom-diagnostic,jQuery DOM Diagnostic,Diagnostic
-3,https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-token-auth,API Token Auth,Training
-3,https://git.generalassemb.ly/ga-wdi-boston/game-project-scope-study,Game Project Scope Study,Study
-3,https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-diagnostic,jQuery AJAX Diagnostic,Diagnostic
-3,https://git.generalassemb.ly/ga-wdi-boston/html-css-sass,"HTML, CSS, & Sass",Training
-3,https://git.generalassemb.ly/ga-wdi-boston/game-project,The Game,Project
-3,https://git.generalassemb.ly/ga-wdi-boston/gh-pages-deployment-guide/,GitHub Pages Deployment Guide,Guide
-3,https://git.generalassemb.ly/ga-wdi-boston/browser-template,Browser Template,Template
-3,https://git.generalassemb.ly/ga-wdi-boston/html-css-sass-diagnostic,Sass Diagnostic,Diagnostic
-3,https://git.generalassemb.ly/ga-wdi-boston/html-css-layout-bootstrap-sass,CSS: Layout with Bootstrap,Training
-3,https://git.generalassemb.ly/ga-wdi-boston/game-project-scope-discussion,Game Project Scope Discussion,Discussion
-3,https://git.generalassemb.ly/ga-wdi-boston/project-issue-tracker-guide,Project Issue Tracker Guide,Guide
-3,https://git.generalassemb.ly/ga-wdi-boston/game-project-api,A Tic-Tac-Toe data store API,Project
-3,,,Project Time
-3,,,Project Time
+Week,Day,Repo Url,Name,Category
+3,Monday,https://git.generalassemb.ly/ga-wdi-boston/jquery-dom-diagnostic,jQuery DOM Diagnostic,Diagnostic
+3,Monday,https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-token-auth,API Token Auth,Training
+3,Monday,https://git.generalassemb.ly/ga-wdi-boston/game-project-scope-study,Game Project Scope Study,Study
+3,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-diagnostic,jQuery AJAX Diagnostic,Diagnostic
+3,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/html-css-sass,"HTML, CSS, & Sass",Training
+3,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/game-project,The Game,Project
+3,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/gh-pages-deployment-guide/,GitHub Pages Deployment Guide,Guide
+3,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/browser-template,Browser Template,Template
+3,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/html-css-sass-diagnostic,Sass Diagnostic,Diagnostic
+3,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/html-css-layout-bootstrap-sass,CSS: Layout with Bootstrap,Training
+3,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/game-project-scope-discussion,Game Project Scope Discussion,Discussion
+3,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/project-issue-tracker-guide,Project Issue Tracker Guide,Guide
+3,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/game-project-api,A Tic-Tac-Toe data store API,Project
+3,Thursday,,,Project Time
+3,Friday,,,Project Time

@@ -1,15 +1,15 @@
 Week,Repo Url,Name,Type
-9,https://git.generalassemb.ly/ga-wdi-boston/node-api-promises-diagnostic,Node Promises Diagnostic,Diagnostic
-9,https://git.generalassemb.ly/ga-wdi-boston/mongodb,An Introduction to MongoDB,Training
-9,https://git.generalassemb.ly/ga-wdi-boston/js-modules-study,Study: Modules in Node and JS,Study
-9,https://git.generalassemb.ly/ga-wdi-boston/mongodb-diagnostic,MongoDB Diagnostic,Diagnostic
-9,https://git.generalassemb.ly/ga-wdi-boston/mongoose,An Introduction to Mongoose,Training
-9,https://git.generalassemb.ly/ga-wdi-boston/express-api,Express as an API,Training
-9,https://git.generalassemb.ly/ga-wdi-boston/node-npm-practice,Using NPM with Node,Practice
-9,https://git.generalassemb.ly/ga-wdi-boston/mongoose-diagnostic,Mongoose Diagnostic,Diagnostic
-9,https://git.generalassemb.ly/ga-wdi-boston/node-s3-upload,File upload with express and AWS S3,Training
-9,https://git.generalassemb.ly/ga-wdi-boston/express-api-deployment-guide,Express Deployment with Heroku,Guide
-9,https://git.generalassemb.ly/ga-wdi-boston/express-api-template,express-api-template,Template
-9,https://git.generalassemb.ly/ga-wdi-boston/scrum,Scrum,Study
-9,https://git.generalassemb.ly/ga-wdi-boston/team-project,Building a SPA with an Express API with Your Team,Project
-9,https://git.generalassemb.ly/ga-wdi-boston/upload-client,File upload with express and AWS S3,Training
+9,Monday,https://git.generalassemb.ly/ga-wdi-boston/node-api-promises-diagnostic,Node Promises Diagnostic,Diagnostic
+9,Monday,https://git.generalassemb.ly/ga-wdi-boston/mongodb,An Introduction to MongoDB,Training
+9,Monday,https://git.generalassemb.ly/ga-wdi-boston/js-modules-study,Study: Modules in Node and JS,Study
+9,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/mongodb-diagnostic,MongoDB Diagnostic,Diagnostic
+9,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/mongoose,An Introduction to Mongoose,Training
+9,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/express-api,Express as an API,Training
+9,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/node-npm-practice,Using NPM with Node,Practice
+9,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/mongoose-diagnostic,Mongoose Diagnostic,Diagnostic
+9,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/node-s3-upload,File upload with express and AWS S3,Training
+9,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/express-api-deployment-guide,Express Deployment with Heroku,Guide
+9,Thursday,https://git.generalassemb.ly/ga-wdi-boston/express-api-template,express-api-template,Template
+9,Thursday,https://git.generalassemb.ly/ga-wdi-boston/scrum,Scrum,Study
+9,Thursday,https://git.generalassemb.ly/ga-wdi-boston/team-project,Building a SPA with an Express API with Your Team,Project
+9,Friday,https://git.generalassemb.ly/ga-wdi-boston/upload-client,File upload with express and AWS S3,Training

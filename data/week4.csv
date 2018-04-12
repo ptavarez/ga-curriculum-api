@@ -1,17 +1,17 @@
-Week,Repo Url,Name,Type
-4,,,Project Time
-4,https://git.generalassemb.ly/ga-wdi-boston/project-presentations,Project Presentations,Guide
-4,,,Presentation
-4,https://git.generalassemb.ly/ga-wdi-boston/js-euler-palindrome-challenge,JS Double-Base Palindrome Challenge,Challenge
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby,Programming Fundamentals in Ruby,Training
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby-array,Ruby Arrays,Training
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby-study,Ruby Study,Study
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-study,Ruby vs JS Study,Study
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-arrays-study,Ruby vs. JS: Arrays Study,Study
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-list-challenge,Ruby vs JS : List Challenge,Challenge
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby-hash,Ruby Hashes,Training
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby-array-methods,Ruby Array Methods,Training
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-study,Ruby Enumerable Study,Study
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby-gem-study,Ruby Gems,Study
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-objects-study,Ruby vs. JS: Objects Study,Study
-4,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-hash-dictionary-study,Ruby (Hashes) vs. JavaScript (Dictionaries): Study,Study
+Week,Day,Repo Url,Name,Category
+4,Monday,,,Project Time
+4,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/project-presentations,Project Presentations,Guide
+4,Wednesday,,,Presentation
+4,Thursday,https://git.generalassemb.ly/ga-wdi-boston/js-euler-palindrome-challenge,JS Double-Base Palindrome Challenge,Challenge
+4,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ruby,Programming Fundamentals in Ruby,Training
+4,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ruby-array,Ruby Arrays,Training
+4,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ruby-study,Ruby Study,Study
+4,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-study,Ruby vs JS Study,Study
+4,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-arrays-study,Ruby vs. JS: Arrays Study,Study
+4,Friday,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-list-challenge,Ruby vs JS : List Challenge,Challenge
+4,Friday,https://git.generalassemb.ly/ga-wdi-boston/ruby-hash,Ruby Hashes,Training
+4,Friday,https://git.generalassemb.ly/ga-wdi-boston/ruby-array-methods,Ruby Array Methods,Training
+4,Friday,https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-study,Ruby Enumerable Study,Study
+4,Friday,https://git.generalassemb.ly/ga-wdi-boston/ruby-gem-study,Ruby Gems,Study
+4,Friday,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-objects-study,Ruby vs. JS: Objects Study,Study
+4,Friday,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-hash-dictionary-study,Ruby (Hashes) vs. JavaScript (Dictionaries): Study,Study

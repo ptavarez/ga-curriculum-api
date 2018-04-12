@@ -1,17 +1,17 @@
-Week,Repo Url,Name,Type
-11,https://git.generalassemb.ly/ga-wdi-boston/roman-numerals-challenge,Roman Numeral,Challenge
-11,https://git.generalassemb.ly/ga-wdi-boston/conference,Conference,Presentation
-11,,,Presentation
-11,https://git.generalassemb.ly/ga-wdi-boston/ember-study,Ember Study,Study
-11,https://git.generalassemb.ly/ga-wdi-boston/js-atc-challenge,Air Traffic Control Challenge,Challenge
-11,,,Whiteboard Day
-11,https://git.generalassemb.ly/ga-wdi-boston/ember-object-study,Ember Object Study,Study
-11,https://git.generalassemb.ly/ga-wdi-boston/js-binary-search-challenge,JS Binary Search Challenge,Challenge
-11,https://git.generalassemb.ly/ga-wdi-boston/ember,Ember,Training
-11,https://git.generalassemb.ly/ga-wdi-boston/ember-object,Ember.Object and Computed Properties,Training
-11,https://git.generalassemb.ly/ga-wdi-boston/ember-routing,Ember Routing,Training
-11,https://git.generalassemb.ly/ga-wdi-boston/ember-routing-study,Ember Routing Study,Study
-11,https://git.generalassemb.ly/ga-wdi-boston/ember-components-study,Ember Components Study,Study
-11,https://git.generalassemb.ly/ga-wdi-boston/ember-inspector-study,Ember Inspector Study,Study
-11,https://git.generalassemb.ly/ga-wdi-boston/ember-diagnostic,Ember Diagnostic,Diagnostic
-11,https://git.generalassemb.ly/ga-wdi-boston/ember-components/,Ember Components,Training
+Week,Day,Repo Url,Name,Category
+11,Monday,https://git.generalassemb.ly/ga-wdi-boston/roman-numerals-challenge,Roman Numeral,Challenge
+11,Monday,https://git.generalassemb.ly/ga-wdi-boston/conference,Conference,Presentation
+11,Tuesday,,,Presentation
+11,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/ember-study,Ember Study,Study
+11,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/js-atc-challenge,Air Traffic Control Challenge,Challenge
+11,Wednesday,,,Whiteboard Day
+11,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/ember-object-study,Ember Object Study,Study
+11,Thursday,https://git.generalassemb.ly/ga-wdi-boston/js-binary-search-challenge,JS Binary Search Challenge,Challenge
+11,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ember,Ember,Training
+11,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ember-object,Ember.Object and Computed Properties,Training
+11,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ember-routing,Ember Routing,Training
+11,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ember-routing-study,Ember Routing Study,Study
+11,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ember-components-study,Ember Components Study,Study
+11,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ember-inspector-study,Ember Inspector Study,Study
+11,Friday,https://git.generalassemb.ly/ga-wdi-boston/ember-diagnostic,Ember Diagnostic,Diagnostic
+11,Friday,https://git.generalassemb.ly/ga-wdi-boston/ember-components/,Ember Components,Training

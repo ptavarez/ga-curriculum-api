@@ -1,18 +1,18 @@
-Week,Repo Url,Name,Type
-5,,,No Class
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-diagnostic,Ruby Diagnostic,Diagnostic
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-object,Ruby Objects vs JS Objects,Training
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-builtins,Ruby Enumerable Built-ins,Training
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-comparable,Ruby Enumerable and Comparable,Training
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-solid-study,Ruby SOLID Study,Study
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-calculator-challenge,Ruby Calculator Challenge,Challenge
-5,https://git.generalassemb.ly/ga-wdi-boston/cs,Computer Science: An introduction,Training
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-inheritance,Object Inheritance in Ruby,Training
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-objects-practice,MBTA Practice,Practice
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-diagnostic,Diagnostic: Ruby Objects,Diagnostic
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-model,"Object Inheritance, Composition, and Mixins in Ruby",Training
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-self,Ruby: Class Methods & Context,Training
-5,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-class-methods,Ruby Class Methods,Training
-5,https://git.generalassemb.ly/ga-wdi-boston/sql-study,Structured Query Language (SQL) Study,Study
-5,https://git.generalassemb.ly/ga-wdi-boston/code-retreat,Ruby Lab Day: Code Retreat,Lab
-5,https://git.generalassemb.ly/ga-wdi-boston/rails-api-study,Rails as an API Study,Study
+Week,Day,Repo Url,Name,Category
+5,Monday,,,No Class
+5,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/ruby-diagnostic,Ruby Diagnostic,Diagnostic
+5,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/ruby-object,Ruby Objects vs JS Objects,Training
+5,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-builtins,Ruby Enumerable Built-ins,Training
+5,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-comparable,Ruby Enumerable and Comparable,Training
+5,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/ruby-solid-study,Ruby SOLID Study,Study
+5,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/ruby-calculator-challenge,Ruby Calculator Challenge,Challenge
+5,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/cs,Computer Science: An introduction,Training
+5,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-inheritance,Object Inheritance in Ruby,Training
+5,Wednesday,https://git.generalassemb.ly/ga-wdi-boston/ruby-objects-practice,MBTA Practice,Practice
+5,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-diagnostic,Diagnostic: Ruby Objects,Diagnostic
+5,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-model,"Object Inheritance, Composition, and Mixins in Ruby",Training
+5,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-self,Ruby: Class Methods & Context,Training
+5,Thursday,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-class-methods,Ruby Class Methods,Training
+5,Thursday,https://git.generalassemb.ly/ga-wdi-boston/sql-study,Structured Query Language (SQL) Study,Study
+5,Friday,https://git.generalassemb.ly/ga-wdi-boston/code-retreat,Ruby Lab Day: Code Retreat,Lab
+5,Friday,https://git.generalassemb.ly/ga-wdi-boston/rails-api-study,Rails as an API Study,Study

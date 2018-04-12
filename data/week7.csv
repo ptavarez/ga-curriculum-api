@@ -1,11 +1,11 @@
-Week,Repo Url,Name,Type
-7,https://git.generalassemb.ly/ga-wdi-boston/sql-references-diagnostic,Diagnostic- PostgreSQL Relationships,Diagnostic
-7,https://git.generalassemb.ly/ga-wdi-boston/rails-api-bdd,Behavior-Driven Development of Rails APIs,Training
-7,https://git.generalassemb.ly/ga-wdi-boston/full-stack-project-practice,Full Stack Project Practice,Practice
-7,https://git.generalassemb.ly/ga-wdi-boston/rails-api-relationships-diagnostic,Rails API Relationships Diagnostic,Diagnostic
-7,https://git.generalassemb.ly/ga-wdi-boston/full-stack-project-modeling-lab,Full Stack Project Modeling Lab,Lab
-7,https://git.generalassemb.ly/ga-wdi-boston/handlebars,Handlebars,Training
-7,https://git.generalassemb.ly/ga-wdi-boston/rails-api-examples-walkthrough,Rails API Examples Walkthrough,Training
-7,https://github.com/ga-wdi-boston/rails-api-bdd-diagnostic,Rails API BDD Diagnostic,Diagnostic
-7,,,Project Time
-7,,,Project Time
+Week,Day,Repo Url,Name,Category
+7,Monday,https://git.generalassemb.ly/ga-wdi-boston/sql-references-diagnostic,Diagnostic- PostgreSQL Relationships,Diagnostic
+7,Monday,https://git.generalassemb.ly/ga-wdi-boston/rails-api-bdd,Behavior-Driven Development of Rails APIs,Training
+7,Monday,https://git.generalassemb.ly/ga-wdi-boston/full-stack-project-practice,Full Stack Project Practice,Practice
+7,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/rails-api-relationships-diagnostic,Rails API Relationships Diagnostic,Diagnostic
+7,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/full-stack-project-modeling-lab,Full Stack Project Modeling Lab,Lab
+7,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/handlebars,Handlebars,Training
+7,Tuesday,https://git.generalassemb.ly/ga-wdi-boston/rails-api-examples-walkthrough,Rails API Examples Walkthrough,Training
+7,Wednesday,https://github.com/ga-wdi-boston/rails-api-bdd-diagnostic,Rails API BDD Diagnostic,Diagnostic
+7,Thursday,,,Project Time
+7,Friday,,,Project Time

@@ -1,31 +1,31 @@
-Week,Repo Url,Name,Type
-2,'https://git.generalassemb.ly/ga-wdi-boston/js-reference-types-diagnostic',JavaScript Reference Types Diagnostic,Diagnostic
-2,'https://git.generalassemb.ly/ga-wdi-boston/js-object-constructors',JavaScript Constructors,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/js-objects-prototypes',JavaScript Prototypes,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/html-css',HTML & CSS Overview,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/html-css-lab',HTML & CSS Overview,Lab
-2,'https://git.generalassemb.ly/ga-wdi-boston/js-functions-ins-and-outs-study',JavaScript: Functions Ins and Outs Study,Study
-2,'https://git.generalassemb.ly/ga-wdi-boston/html-css-layout-study',HTML CSS Layout Study,Study
-2,'https://git.generalassemb.ly/ga-wdi-boston/js-objects-diagnostic',JavaScript Objects Diagnostic,Diagnostic
-2,'https://git.generalassemb.ly/ga-wdi-boston/js-functions-arguments-and-return-values','JavaScript Functions- Ins & Outs',Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/json-study',JSON Study,Study
-2,'https://git.generalassemb.ly/ga-wdi-boston/js-functions-ins-and-outs-diagnostic','Diagnostic for JS Functions- ins & Outs',Diagnostic
-2,'https://git.generalassemb.ly/ga-wdi-boston/html-css-layout',HTML CSS Layout ,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes',Wireframing,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods',JS Array Iteration Methods,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/jquery-dom-study',jQuery Study,Study
-2,'https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes-practice',Project Planning Wireframes Practice,Practice
-2,'https://git.generalassemb.ly/ga-wdi-boston/http-study',HTTP Study,Study
-2,'https://git.generalassemb.ly/ga-wdi-boston/html-css-diagnostic','HTML & CSS Diagnositc',Diagnostic
-2,'https://git.generalassemb.ly/ga-wdi-boston/jquery-dom',jQuery DOM Manipulation,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/http-json-discussion',HTTP & JSON Discussion,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/library-api-guide',library-api-guide,Guide
-2,'https://ga-library-api.herokuapp.com/books','Library Heroku Backend',Deployment
-2,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-get-collection',jQyery AJAX GET,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/js-async-study',JS Async Study,Study
-2,'https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods-diagnostic',JS Array Methods Diagnostic,Diagnostic
-2,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-get-element',jQuery AJAX GET Element,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-patch',jQuery AJAX Patch,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-post',jQuery AJAX Post,Training
-2,'https://git.generalassemb.ly/ga-wdi-boston/spa-study',Single-Page Applications Study,Study
-2,'https://git.generalassemb.ly/ga-wdi-boston/js-boggle-challenge',Boggle Challenge,Challenge
+Week,Day,Repo Url,Name,Category
+2,Monday,'https://git.generalassemb.ly/ga-wdi-boston/js-reference-types-diagnostic',JavaScript Reference Types Diagnostic,Diagnostic
+2,Monday,'https://git.generalassemb.ly/ga-wdi-boston/js-object-constructors',JavaScript Constructors,Training
+2,Monday,'https://git.generalassemb.ly/ga-wdi-boston/js-objects-prototypes',JavaScript Prototypes,Training
+2,Monday,'https://git.generalassemb.ly/ga-wdi-boston/html-css',HTML & CSS Overview,Training
+2,Monday,'https://git.generalassemb.ly/ga-wdi-boston/html-css-lab',HTML & CSS Overview,Lab
+2,Monday,'https://git.generalassemb.ly/ga-wdi-boston/js-functions-ins-and-outs-study',JavaScript: Functions Ins and Outs Study,Study
+2,Monday,'https://git.generalassemb.ly/ga-wdi-boston/html-css-layout-study',HTML CSS Layout Study,Study
+2,Tuesday,'https://git.generalassemb.ly/ga-wdi-boston/js-objects-diagnostic',JavaScript Objects Diagnostic,Diagnostic
+2,Tuesday,'https://git.generalassemb.ly/ga-wdi-boston/js-functions-arguments-and-return-values','JavaScript Functions- Ins & Outs',Training
+2,Tuesday,'https://git.generalassemb.ly/ga-wdi-boston/json-study',JSON Study,Study
+2,Wednesday,'https://git.generalassemb.ly/ga-wdi-boston/js-functions-ins-and-outs-diagnostic','Diagnostic for JS Functions- ins & Outs',Diagnostic
+2,Wednesday,'https://git.generalassemb.ly/ga-wdi-boston/html-css-layout',HTML CSS Layout ,Training
+2,Wednesday,'https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes',Wireframing,Training
+2,Wednesday,'https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods',JS Array Iteration Methods,Training
+2,Wednesday,'https://git.generalassemb.ly/ga-wdi-boston/jquery-dom-study',jQuery Study,Study
+2,Wednesday,'https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes-practice',Project Planning Wireframes Practice,Practice
+2,Wednesday,'https://git.generalassemb.ly/ga-wdi-boston/http-study',HTTP Study,Study
+2,Thursday,'https://git.generalassemb.ly/ga-wdi-boston/html-css-diagnostic','HTML & CSS Diagnositc',Diagnostic
+2,Thursday,'https://git.generalassemb.ly/ga-wdi-boston/jquery-dom',jQuery DOM Manipulation,Training
+2,Thursday,'https://git.generalassemb.ly/ga-wdi-boston/http-json-discussion',HTTP & JSON Discussion,Training
+2,Thursday,'https://git.generalassemb.ly/ga-wdi-boston/library-api-guide',library-api-guide,Guide
+2,Thursday,'https://ga-library-api.herokuapp.com/books','Library Heroku Backend',Deployment
+2,Thursday,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-get-collection',jQyery AJAX GET,Training
+2,Thursday,'https://git.generalassemb.ly/ga-wdi-boston/js-async-study',JS Async Study,Study
+2,Friday,'https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods-diagnostic',JS Array Methods Diagnostic,Diagnostic
+2,Friday,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-get-element',jQuery AJAX GET Element,Training
+2,Friday,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-patch',jQuery AJAX Patch,Training
+2,Friday,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-post',jQuery AJAX Post,Training
+2,Friday,'https://git.generalassemb.ly/ga-wdi-boston/spa-study',Single-Page Applications Study,Study
+2,Friday,'https://git.generalassemb.ly/ga-wdi-boston/js-boggle-challenge',Boggle Challenge,Challenge

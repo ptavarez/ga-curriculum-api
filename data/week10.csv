@@ -1,9 +1,9 @@
-Week,Repo Url,Name,Type
-10,,,Project Time
-10,,,Project Time
-10,,,Project Time
-10,,,Presentation
-10,https://git.generalassemb.ly/ga-wdi-boston/ruby-morse-code-challenge,Morse Code Challenge,Challenge
-10,https://git.generalassemb.ly/ga-wdi-boston/cs,Computer Science: An introduction,Training
-10,https://git.generalassemb.ly/ga-wdi-boston/cs-algorithms,Computer Science: Algorithms,Training
-10,https://git.generalassemb.ly/ga-wdi-boston/cs-data-structures,Computer Science: Data Structures,Training
+Week,Day,Repo Url,Name,Category
+10,Monday,,,Project Time
+10,Tuesday,,,Project Time
+10,Wednesday,,,Project Time
+10,Thursday,,,Presentation
+10,Friday,https://git.generalassemb.ly/ga-wdi-boston/ruby-morse-code-challenge,Morse Code Challenge,Challenge
+10,Friday,https://git.generalassemb.ly/ga-wdi-boston/cs,Computer Science: An introduction,Training
+10,Friday,https://git.generalassemb.ly/ga-wdi-boston/cs-algorithms,Computer Science: Algorithms,Training
+10,Friday,https://git.generalassemb.ly/ga-wdi-boston/cs-data-structures,Computer Science: Data Structures,Training
