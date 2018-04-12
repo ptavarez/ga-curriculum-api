@@ -1,0 +1,185 @@
+Fecha,Repo Url,Name,Type
+2018-01-22,https://git.generalassemb.ly/ga-wdi-boston/installfest,Installfest,Env. Setup
+2018-01-22,https://git.generalassemb.ly/ga-wdi-boston/orientation,Orientation,Orientation
+2018-01-23,https://git.generalassemb.ly/ga-wdi-boston/unix-cli,Unix Command Line,Training
+2018-01-23,https://git.generalassemb.ly/ga-wdi-boston/git,Git Basics,Training
+2018-01-23,https://git.generalassemb.ly/ga-wdi-boston/git-github,Git and Github,Training
+2018-01-23,https://git.generalassemb.ly/ga-wdi-boston/git-practice,Git Basics: Practice,Practice
+2018-01-24,https://git.generalassemb.ly/ga-wdi-boston/unix-cli-diagnostic,Unix/CLI Diagnostic,Diagnostic
+2018-01-24,https://git.generalassemb.ly/ga-wdi-boston/js,Javascript Basics,Training
+2018-01-24,https://ga-students.slack.com/archives/G8GEP4BK7/p1516824328000186,JS Practice,Practice
+2018-01-25,https://git.generalassemb.ly/ga-wdi-boston/git-diagnostic,Git Basics Diagnostic,Diagnostic
+2018-01-25,https://git.generalassemb.ly/ga-wdi-boston/js-reference-types,Javascript Reference Types,Training
+2018-01-25,https://git.generalassemb.ly/ga-wdi-boston/js-reference-types-practice,MBTA Practice,Practice
+2018-01-26,https://git.generalassemb.ly/ga-wdi-boston/js-diagnostic,JS Basics Diagnostic,Diagnostic
+2018-01-26,https://git.generalassemb.ly/ga-wdi-boston/js-object-modeling,JS Object Modeling,Training
+2018-01-26,https://git.generalassemb.ly/ga-wdi-boston/js-objects-this,Javascript Objects: Referencing Own Properties,Training
+2018-01-26,https://git.generalassemb.ly/ga-wdi-boston/js-this-prototype-study,This and Prototype Study,Study
+2018-01-26,https://git.generalassemb.ly/gist/MicFin/7ee46696e093d9d3f235d1d2f5cc1612,Array and Objects,Practice
+2018-01-26,https://git.generalassemb.ly/gist/MicFin/f032cee7ecc67f2ca2385f2f0aac37d6,Javascript Function Challenges,Challenge
+2018-01-29,'https://git.generalassemb.ly/ga-wdi-boston/js-reference-types-diagnostic',JavaScript Reference Types Diagnostic,Diagnostic
+2018-01-29,'https://git.generalassemb.ly/ga-wdi-boston/js-object-constructors',JavaScript Constructors,Training
+2018-01-29,'https://git.generalassemb.ly/ga-wdi-boston/js-objects-prototypes',JavaScript Prototypes,Training
+2018-01-29,'https://git.generalassemb.ly/ga-wdi-boston/html-css',HTML & CSS Overview,Training
+2018-01-29,'https://git.generalassemb.ly/ga-wdi-boston/html-css-lab',HTML & CSS Overview,Lab
+2018-01-29,'https://git.generalassemb.ly/ga-wdi-boston/js-functions-ins-and-outs-study',JavaScript: Functions Ins and Outs Study,Study
+2018-01-29,'https://git.generalassemb.ly/ga-wdi-boston/html-css-layout-study',HTML CSS Layout Study,Study
+2018-01-30,'https://git.generalassemb.ly/ga-wdi-boston/js-objects-diagnostic',JavaScript Objects Diagnostic,Diagnostic
+2018-01-30,'https://git.generalassemb.ly/ga-wdi-boston/js-functions-arguments-and-return-values','JavaScript Functions- Ins & Outs',Training
+2018-01-30,'https://git.generalassemb.ly/ga-wdi-boston/json-study',JSON Study,Study
+2018-01-31,'https://git.generalassemb.ly/ga-wdi-boston/js-functions-ins-and-outs-diagnostic','Diagnostic for JS Functions- ins & Outs',Diagnostic
+2018-01-31,'https://git.generalassemb.ly/ga-wdi-boston/html-css-layout',HTML CSS Layout ,Training
+2018-01-31,'https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes',Wireframing,Training
+2018-01-31,'https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods',JS Array Iteration Methods,Training
+2018-01-31,'https://git.generalassemb.ly/ga-wdi-boston/jquery-dom-study',jQuery Study,Study
+2018-01-31,'https://git.generalassemb.ly/ga-wdi-boston/project-planning-wireframes-practice',Project Planning Wireframes Practice,Practice
+2018-01-31,'https://git.generalassemb.ly/ga-wdi-boston/http-study',HTTP Study,Study
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/html-css-diagnostic','HTML & CSS Diagnositc',Diagnostic
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/jquery-dom',jQuery DOM Manipulation,Training
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/http-json-discussion',HTTP & JSON Discussion,Training
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/library-api-guide',library-api-guide,Guide
+2018-02-01,'https://ga-library-api.herokuapp.com/books','Library Heroku Backend',Deployment
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-get-collection',jQyery AJAX GET,Training
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/js-async-study',JS Async Study,Study
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods-diagnostic',JS Array Methods Diagnostic,Diagnostic
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-get-element',jQuery AJAX GET Element,Training
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-patch',jQuery AJAX Patch,Training
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-post',jQuery AJAX Post,Training
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/spa-study',Single-Page Applications Study,Study
+2018-02-01,'https://git.generalassemb.ly/ga-wdi-boston/js-boggle-challenge',Boggle Challenge,Challenge
+2018-02-05,https://git.generalassemb.ly/ga-wdi-boston/jquery-dom-diagnostic,jQuery DOM Diagnostic,Diagnostic
+2018-02-05,https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-token-auth,API Token Auth,Training
+2018-02-05,https://git.generalassemb.ly/ga-wdi-boston/game-project-scope-study,Game Project Scope Study,Study
+2018-02-06,https://git.generalassemb.ly/ga-wdi-boston/jquery-ajax-diagnostic,jQuery AJAX Diagnostic,Diagnostic
+2018-02-06,https://git.generalassemb.ly/ga-wdi-boston/html-css-sass,"HTML, CSS, & Sass",Training
+2018-02-06,https://git.generalassemb.ly/ga-wdi-boston/game-project,The Game,Project
+2018-02-06,https://git.generalassemb.ly/ga-wdi-boston/gh-pages-deployment-guide/,GitHub Pages Deployment Guide,Guide
+2018-02-06,https://git.generalassemb.ly/ga-wdi-boston/browser-template,Browser Template,Template
+2018-02-07,https://git.generalassemb.ly/ga-wdi-boston/html-css-sass-diagnostic,Sass Diagnostic,Diagnostic
+2018-02-07,https://git.generalassemb.ly/ga-wdi-boston/html-css-layout-bootstrap-sass,CSS: Layout with Bootstrap,Training
+2018-02-07,https://git.generalassemb.ly/ga-wdi-boston/game-project-scope-discussion,Game Project Scope Discussion,Discussion
+2018-02-07,https://git.generalassemb.ly/ga-wdi-boston/project-issue-tracker-guide,Project Issue Tracker Guide,Guide
+2018-02-07,https://git.generalassemb.ly/ga-wdi-boston/game-project-api,A Tic-Tac-Toe data store API,Project
+2018-02-08,,,Project Time
+2018-02-09,,,Project Time
+2018-02-12,,,Project Time
+2018-02-13,https://git.generalassemb.ly/ga-wdi-boston/project-presentations,Project Presentations,Guide
+2018-02-14,,,Presentation
+2018-02-15,https://git.generalassemb.ly/ga-wdi-boston/js-euler-palindrome-challenge,JS Double-Base Palindrome Challenge,Challenge
+2018-02-15,https://git.generalassemb.ly/ga-wdi-boston/ruby,Programming Fundamentals in Ruby,Training
+2018-02-15,https://git.generalassemb.ly/ga-wdi-boston/ruby-array,Ruby Arrays,Training
+2018-02-15,https://git.generalassemb.ly/ga-wdi-boston/ruby-study,Ruby Study,Study
+2018-02-15,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-study,Ruby vs JS Study,Study
+2018-02-15,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-arrays-study,Ruby vs. JS: Arrays Study,Study
+2018-02-16,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-list-challenge,Ruby vs JS : List Challenge,Challenge
+2018-02-16,https://git.generalassemb.ly/ga-wdi-boston/ruby-hash,Ruby Hashes,Training
+2018-02-16,https://git.generalassemb.ly/ga-wdi-boston/ruby-array-methods,Ruby Array Methods,Training
+2018-02-16,https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-study,Ruby Enumerable Study,Study
+2018-02-16,https://git.generalassemb.ly/ga-wdi-boston/ruby-gem-study,Ruby Gems,Study
+2018-02-16,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-objects-study,Ruby vs. JS: Objects Study,Study
+2018-02-16,https://git.generalassemb.ly/ga-wdi-boston/ruby-vs-js-hash-dictionary-study,Ruby (Hashes) vs. JavaScript (Dictionaries): Study,Study
+2018-02-19,,,No Class
+2018-02-20,https://git.generalassemb.ly/ga-wdi-boston/ruby-diagnostic,Ruby Diagnostic,Diagnostic
+2018-02-20,https://git.generalassemb.ly/ga-wdi-boston/ruby-object,Ruby Objects vs JS Objects,Training
+2018-02-20,https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-builtins,Ruby Enumerable Built-ins,Training
+2018-02-20,https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-comparable,Ruby Enumerable and Comparable,Training
+2018-02-20,https://git.generalassemb.ly/ga-wdi-boston/ruby-solid-study,Ruby SOLID Study,Study
+2018-02-21,https://git.generalassemb.ly/ga-wdi-boston/ruby-calculator-challenge,Ruby Calculator Challenge,Challenge
+2018-02-21,https://git.generalassemb.ly/ga-wdi-boston/cs,Computer Science: An introduction,Training
+2018-02-21,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-inheritance,Object Inheritance in Ruby,Training
+2018-02-21,https://git.generalassemb.ly/ga-wdi-boston/ruby-objects-practice,MBTA Practice,Practice
+2018-02-22,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-diagnostic,Diagnostic: Ruby Objects,Diagnostic
+2018-02-22,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-model,"Object Inheritance, Composition, and Mixins in Ruby",Training
+2018-02-22,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-self,Ruby: Class Methods & Context,Training
+2018-02-22,https://git.generalassemb.ly/ga-wdi-boston/ruby-object-class-methods,Ruby Class Methods,Training
+2018-02-22,https://git.generalassemb.ly/ga-wdi-boston/sql-study,Structured Query Language (SQL) Study,Study
+2018-02-23,https://git.generalassemb.ly/ga-wdi-boston/code-retreat,Ruby Lab Day: Code Retreat,Lab
+2018-02-23,https://git.generalassemb.ly/ga-wdi-boston/rails-api-study,Rails as an API Study,Study
+2018-02-26,https://git.generalassemb.ly/ga-wdi-boston/ruby-enumerable-diagnostic,Ruby Enumerables Diagnostic,Diagnostic
+2018-02-26,https://git.generalassemb.ly/ga-wdi-boston/sql,An introduction to relational databases,Training
+2018-02-26,https://git.generalassemb.ly/ga-wdi-boston/rails-api/,Rails API Overview,Training
+2018-02-26,https://git.generalassemb.ly/ga-wdi-boston/rails-activerecord-crud-study,Rails: ActiveRecord Study,Study
+2018-02-26,https://git.generalassemb.ly/ga-wdi-boston/rails-migrations-study,Rails Migrations Study,Study
+2018-02-27,https://git.generalassemb.ly/ga-wdi-boston/ruby-fibonacci-challenge,Ruby Fibonacci Challenge,Challenge
+2018-02-27,https://git.generalassemb.ly/ga-wdi-boston/rails-api-single-resource,Rails API Single Resource,Training
+2018-02-27,https://git.generalassemb.ly/ga-wdi-boston/rails-api-library-demo,Rails API: Library API (Demo),Training
+2018-02-27,https://git.generalassemb.ly/ga-wdi-boston/rails-api-clinic-code-along,Rails API: Clinic API (Code-along),Training
+2018-02-27,https://git.generalassemb.ly/ga-wdi-boston/rails-api-cookbook-lab,Rails API: Cookbook API (Lab),Training
+2018-02-27,https://git.generalassemb.ly/ga-wdi-boston/ruby-objects-practice,MBTA Practice,Practice
+2018-02-28,https://git.generalassemb.ly/ga-wdi-boston/sql-diagnostic,Diagnostic: An introduction to relational databases,Diagnostic
+2018-02-28,https://git.generalassemb.ly/ga-wdi-boston/sql-references,An Introduction to PostgreSQL Foreign Key References,Training
+2018-03-01,https://git.generalassemb.ly/ga-wdi-boston/rails-api-diagnostic,Rails API Diagnostic,Diagnostic
+2018-03-01,https://git.generalassemb.ly/ga-wdi-boston/rails-api-one-to-many,Rails API: One-To-Many,Training
+2018-03-01,https://git.generalassemb.ly/ga-wdi-boston/rails-api-single-resource-diagnostic,Rails API Diagnostic,Diagnostic
+2018-03-01,https://git.generalassemb.ly/ga-wdi-boston/sql-references-join-tables,An Intro to many-to-many relationships on PostgreSQL,Training
+2018-03-01,https://git.generalassemb.ly/ga-wdi-boston/rails-api-many-to-many,Rails API Many-To-Many,Training
+2018-03-01,https://git.generalassemb.ly/ga-wdi-boston/full-stack-project,Building A Full-Stack Application,Project
+2018-03-01,https://git.generalassemb.ly/ga-wdi-boston/rails-heroku-setup-guide,Rails Deployment with Heroku,Guide
+2018-03-05,https://git.generalassemb.ly/ga-wdi-boston/sql-references-diagnostic,Diagnostic- PostgreSQL Relationships,Diagnostic
+2018-03-05,https://git.generalassemb.ly/ga-wdi-boston/rails-api-bdd,Behavior-Driven Development of Rails APIs,Training
+2018-03-05,https://git.generalassemb.ly/ga-wdi-boston/full-stack-project-practice,Full Stack Project Practice,Practice
+2018-03-06,https://git.generalassemb.ly/ga-wdi-boston/rails-api-relationships-diagnostic,Rails API Relationships Diagnostic,Diagnostic
+2018-03-06,https://git.generalassemb.ly/ga-wdi-boston/full-stack-project-modeling-lab,Full Stack Project Modeling Lab,Lab
+2018-03-06,https://git.generalassemb.ly/ga-wdi-boston/handlebars,Handlebars,Training
+2018-03-06,https://git.generalassemb.ly/ga-wdi-boston/rails-api-examples-walkthrough,Rails API Examples Walkthrough,Training
+2018-03-07,https://github.com/ga-wdi-boston/rails-api-bdd-diagnostic,Rails API BDD Diagnostic,Diagnostic
+2018-03-08,,,Project Time
+2018-03-09,,,Project Time
+2018-03-12,,,Project Time
+2018-03-13,,,Project Time
+2018-03-14,,,Presentation
+2018-03-14,https://git.generalassemb.ly/ga-wdi-boston/js-function-context-this,JavaScript: this,Training
+2018-03-15,https://git.generalassemb.ly/ga-wdi-boston/git-workflow-teams,Team Workflow with Git and Github,Training
+2018-03-15,https://git.generalassemb.ly/ga-wdi-boston/node-api,Introduction to the Node API,Training
+2018-03-15,https://git.generalassemb.ly/ga-wdi-boston/sql-nosql-study,Relational and Non-relational Databases Study,Study
+2018-03-16,https://git.generalassemb.ly/ga-wdi-boston/js-function-context-this-diagnostic,JS Scope and Context Diagnostic,Diagnostic
+2018-03-16,https://git.generalassemb.ly/ga-wdi-boston/node-api-promises/,Using Promises with Node API,Training
+2018-03-16,https://git.generalassemb.ly/ga-wdi-boston/sql-nosql-discussion,Discussion: Relational and Non-relationshal Databases,Training
+2018-03-16,https://git.generalassemb.ly/ga-wdi-boston/mongodb-study,mongodb-crud study,Study
+2018-03-16,https://git.generalassemb.ly/ga-wdi-boston/aws-s3-setup-guide,Simple Storage Service on Amazon Web Services setup,Guide
+2018-03-19,https://git.generalassemb.ly/ga-wdi-boston/node-api-promises-diagnostic,Node Promises Diagnostic,Diagnostic
+2018-03-19,https://git.generalassemb.ly/ga-wdi-boston/mongodb,An Introduction to MongoDB,Training
+2018-03-19,https://git.generalassemb.ly/ga-wdi-boston/js-modules-study,Study: Modules in Node and JS,Study
+2018-03-20,https://git.generalassemb.ly/ga-wdi-boston/mongodb-diagnostic,MongoDB Diagnostic,Diagnostic
+2018-03-20,https://git.generalassemb.ly/ga-wdi-boston/mongoose,An Introduction to Mongoose,Training
+2018-03-20,https://git.generalassemb.ly/ga-wdi-boston/express-api,Express as an API,Training
+2018-03-20,https://git.generalassemb.ly/ga-wdi-boston/node-npm-practice,Using NPM with Node,Practice
+2018-03-21,https://git.generalassemb.ly/ga-wdi-boston/mongoose-diagnostic,Mongoose Diagnostic,Diagnostic
+2018-03-21,https://git.generalassemb.ly/ga-wdi-boston/node-s3-upload,File upload with express and AWS S3,Training
+2018-03-21,https://git.generalassemb.ly/ga-wdi-boston/express-api-deployment-guide,Express Deployment with Heroku,Guide
+2018-03-22,https://git.generalassemb.ly/ga-wdi-boston/express-api-template,express-api-template,Template
+2018-03-22,https://git.generalassemb.ly/ga-wdi-boston/scrum,Scrum,Study
+2018-03-22,https://git.generalassemb.ly/ga-wdi-boston/team-project,Building a SPA with an Express API with Your Team,Project
+2018-03-23,https://git.generalassemb.ly/ga-wdi-boston/upload-client,File upload with express and AWS S3,Training
+2018-03-26,,,Project Time
+2018-03-27,,,Project Time
+2018-03-28,,,Project Time
+2018-03-29,,,Presentation
+2018-03-30,https://git.generalassemb.ly/ga-wdi-boston/ruby-morse-code-challenge,Morse Code Challenge,Challenge
+2018-03-30,https://git.generalassemb.ly/ga-wdi-boston/cs,Computer Science: An introduction,Training
+2018-03-30,https://git.generalassemb.ly/ga-wdi-boston/cs-algorithms,Computer Science: Algorithms,Training
+2018-03-30,https://git.generalassemb.ly/ga-wdi-boston/cs-data-structures,Computer Science: Data Structures,Training
+2018-04-02,https://git.generalassemb.ly/ga-wdi-boston/roman-numerals-challenge,Roman Numeral,Challenge
+2018-04-02,https://git.generalassemb.ly/ga-wdi-boston/conference,Conference,Presentation
+2018-04-03,,,Presentation
+2018-04-03,https://git.generalassemb.ly/ga-wdi-boston/ember-study,Ember Study,Study
+2018-04-04,https://git.generalassemb.ly/ga-wdi-boston/js-atc-challenge,Air Traffic Control Challenge,Challenge
+2018-04-04,,,Whiteboard Day
+2018-04-04,https://git.generalassemb.ly/ga-wdi-boston/ember-object-study,Ember Object Study,Study
+2018-04-05,https://git.generalassemb.ly/ga-wdi-boston/js-binary-search-challenge,JS Binary Search Challenge,Challenge
+2018-04-05,https://git.generalassemb.ly/ga-wdi-boston/ember,Ember,Training
+2018-04-05,https://git.generalassemb.ly/ga-wdi-boston/ember-object,Ember.Object and Computed Properties,Training
+2018-04-05,https://git.generalassemb.ly/ga-wdi-boston/ember-routing,Ember Routing,Training
+2018-04-05,https://git.generalassemb.ly/ga-wdi-boston/ember-routing-study,Ember Routing Study,Study
+2018-04-05,https://git.generalassemb.ly/ga-wdi-boston/ember-components-study,Ember Components Study,Study
+2018-04-05,https://git.generalassemb.ly/ga-wdi-boston/ember-inspector-study,Ember Inspector Study,Study
+2018-04-02,https://git.generalassemb.ly/ga-wdi-boston/ember-diagnostic,Ember Diagnostic,Diagnostic
+2018-04-02,https://git.generalassemb.ly/ga-wdi-boston/ember-components/,Ember Components,Training
+2018-04-09,https://git.generalassemb.ly/ga-wdi-boston/ember-object-diagnostic,Ember Object Diagnostic,Diagnostic
+2018-04-09,https://git.generalassemb.ly/ga-wdi-boston/ember-resources,Ember Resources,Training
+2018-04-10,https://git.generalassemb.ly/ga-wdi-boston/ember-routing-diagnostic,Ember Routing Diagnostic,Diagnostic
+2018-04-11,https://git.generalassemb.ly/ga-wdi-boston/ember-components-diagnostic,Ember Components Diagnostic,Diagnostic
+2018-04-11,https://git.generalassemb.ly/ga-wdi-boston/ember-auth-template-walkthrough,Authentication in Ember,Template/Guide
+2018-04-11,https://git.generalassemb.ly/ga-wdi-boston/capstone-project,Your Capstone Project,Project
+2018-04-12,https://git.generalassemb.ly/ga-wdi-boston/js-finite-state-machine-challenge,JS Finite State Machine Challenge,Challenge
+2018-04-12,https://git.generalassemb.ly/ga-wdi-boston/ember-deployment-guide/,Ember Deployment Guide,Guide
