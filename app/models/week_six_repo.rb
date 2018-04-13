@@ -1,0 +1,2 @@
+class WeekSixRepo < ApplicationRecord
+end

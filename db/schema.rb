@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180412232900) do
+ActiveRecord::Schema.define(version: 20180413002248) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -33,7 +33,117 @@ ActiveRecord::Schema.define(version: 20180412232900) do
     t.index ["token"], name: "index_users_on_token", unique: true
   end
 
+  create_table "week_eight_repos", force: :cascade do |t|
+    t.integer "week"
+    t.string "day"
+    t.string "repo_url"
+    t.string "name"
+    t.string "category"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "week_eleven_repos", force: :cascade do |t|
+    t.integer "week"
+    t.string "day"
+    t.string "repo_url"
+    t.string "name"
+    t.string "category"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "week_five_repos", force: :cascade do |t|
+    t.integer "week"
+    t.string "day"
+    t.string "repo_url"
+    t.string "name"
+    t.string "category"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "week_four_repos", force: :cascade do |t|
+    t.integer "week"
+    t.string "day"
+    t.string "repo_url"
+    t.string "name"
+    t.string "category"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "week_nine_repos", force: :cascade do |t|
+    t.integer "week"
+    t.string "day"
+    t.string "repo_url"
+    t.string "name"
+    t.string "category"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
   create_table "week_one_repos", force: :cascade do |t|
+    t.integer "week"
+    t.string "day"
+    t.string "repo_url"
+    t.string "name"
+    t.string "category"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "week_seven_repos", force: :cascade do |t|
+    t.integer "week"
+    t.string "day"
+    t.string "repo_url"
+    t.string "name"
+    t.string "category"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "week_six_repos", force: :cascade do |t|
+    t.integer "week"
+    t.string "day"
+    t.string "repo_url"
+    t.string "name"
+    t.string "category"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "week_ten_repos", force: :cascade do |t|
+    t.integer "week"
+    t.string "day"
+    t.string "repo_url"
+    t.string "name"
+    t.string "category"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "week_three_repos", force: :cascade do |t|
+    t.integer "week"
+    t.string "day"
+    t.string "repo_url"
+    t.string "name"
+    t.string "category"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "week_twelve_repos", force: :cascade do |t|
+    t.integer "week"
+    t.string "day"
+    t.string "repo_url"
+    t.string "name"
+    t.string "category"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "week_two_repos", force: :cascade do |t|
     t.integer "week"
     t.string "day"
     t.string "repo_url"
